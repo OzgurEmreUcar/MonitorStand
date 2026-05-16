@@ -21,3 +21,10 @@ This project includes a specific helper component named **ScrewLift**.
 * Inside the lead screw, there is a designated **20x20 clearance slot** intended for a horizontal reinforcement stud. 
 * **Note:** My original plan was to 3D print a custom stud horizontally (for layer strength) to insert into this slot. However, after testing the post-print rigidity, I found it completely unnecessary. Therefore, I never designed or printed that horizontal stud piece. 
 * **Remix Tip:** If your build feels solid enough, you can safely leave this slot empty. Alternatively, you can design your own custom insert to fit this space, or modify the lead screw file to close the gap entirely depending on your needs.
+
+## Images
+
+| State | Front View | Back View |
+| :---: | :---: | :---: |
+| **Raised** | <img src="images/stand_lifted_front.jpg" width="400" alt="Raised Front"> | <img src="images/stand_lifted_back.jpg" width="400" alt="Raised Back"> |
+| **Lowered** | <img src="images/stand_front.jpg" width="400" alt="Lowered Front"> | <img src="images/stand_back.jpg" width="400" alt="Lowered Back"> |

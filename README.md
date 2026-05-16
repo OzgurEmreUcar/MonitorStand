@@ -1,4 +1,4 @@
-# MonitorStand
+# Monitor Stand
 
 A custom, portable monitor stand designed specifically for my setup, which features a **15.6-inch portable monitor**. Shared with the community for inspiration, adaptation, and remixing purposes. Please note that compatibility is not guaranteed for other devices—use, print, and modify at your own risk!
 
